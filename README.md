@@ -1,1 +1,2 @@
-This is a sample chat application built with Rails using ActionCable from a tutorial found [here](https://iridakos.com/programming/2019/04/04/creating-chat-application-rails-websockets)
+This is a sample chat application built with Rails using ActionCable from a tutorial found [here](https://iridakos.com/programming/2019/04/04/creating-chat-application-rails-websockets).
+Big thanks to GoRails for [this](https://www.youtube.com/watch?v=bn9arlhfaXc) video on getting bootstrap set up with Rails 6.
