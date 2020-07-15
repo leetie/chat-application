@@ -1,0 +1,1 @@
+This is a sample chat application built with Rails using ActionCable from a tutorial found [here](https://iridakos.com/programming/2019/04/04/creating-chat-application-rails-websockets)
